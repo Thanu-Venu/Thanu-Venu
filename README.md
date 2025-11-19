@@ -20,7 +20,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanu-Venu&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thanu-Venu&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thanu-Venu&theme=dark)
 
 
 
