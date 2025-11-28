@@ -8,9 +8,10 @@
 ---
 
 ## 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript, jQuery  
+- **Frontend:** HTML, CSS, JavaScript, jQuery
+- **Backend:** PHP,JAVA 
 - **Frameworks:** Angular, React (SPA development)  
-- **Database & APIs:** JSON, REST API integration  
+- **Database & APIs:** JSON, REST API integration ,MySQL 
 - **Tools:** VS Code, Git & GitHub, Chrome DevTools  
 
 ---
