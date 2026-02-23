@@ -1,6 +1,6 @@
 # ❄️ Hey there, I'm Thanushya! 👋  
 
-🎓 Software Engineering Student  
+🎓 Computer Science Student  
 💡 Aspiring Full Stack & AI/ML Engineer  
 🚀 Passionate about building scalable systems and solving real-world problems  
 
@@ -20,12 +20,12 @@
 
 ### 👩‍💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,php,js,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=c,python,php,js,bash,jquery" />
 </p>
 
 ### 🌐 Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 - Responsive Web Design  
@@ -60,7 +60,7 @@
 
 ### 🐳 DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,nginx,figma" />
 </p>
 
 - Docker & Docker Compose  
@@ -77,16 +77,6 @@
 - Basic Cryptography  
 - Event-Driven Microservices Architecture  
 - RabbitMQ Messaging  
-
----
-
-### 📊 Algorithms & Core CS  
-
-- Data Structures (BST, Hash Tables)  
-- Searching & Sorting Algorithms  
-- BFS Graph Traversal  
-- Time & Space Complexity Analysis  
-- P, NP, NP-Complete Concepts  
 
 ---
 
