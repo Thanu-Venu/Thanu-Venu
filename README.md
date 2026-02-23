@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=c,python,php,js,bash,jquery" />
 </p>
 
+---
+
 ### 🌐 Frontend Development  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
@@ -48,16 +50,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,nginx,figma" />
 </p>
-
----
-
-### 🔐 Security & Systems Knowledge  
-
-- GPG / PGP Encryption  
-- TLS Concepts  
-- Basic Cryptography  
-- Event-Driven Microservices Architecture  
-- RabbitMQ Messaging  
 
 ---
 
