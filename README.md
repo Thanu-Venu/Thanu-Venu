@@ -28,21 +28,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-- Responsive Web Design  
-- SPA Development  
-- JWT Authentication (Protected Routes)  
-
 ---
 
 ### 🖥️ Backend Development  
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,php,fastapi" />
 </p>
-
-- REST API Development  
-- Role-Based Access Control  
-- WebSockets (Real-time updates)  
-- SOAP & TCP Integration (Middleware concepts)  
 
 ---
 
@@ -51,22 +42,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-- ER / EER Modeling  
-- Query Optimization  
-- Complex JOIN operations  
-- Relational Database Design  
-
 ---
 
 ### 🐳 DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,nginx,figma" />
 </p>
-
-- Docker & Docker Compose  
-- WSL (Ubuntu Environment)  
-- Version Control (Git & GitHub)  
-- Chrome DevTools  
 
 ---
 
