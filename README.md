@@ -55,8 +55,11 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thanu-Venu&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanu-Venu&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanu-Venu&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thanu-Venu&theme=dark)
 ---
 
 ## ✨ Connect With Me  
